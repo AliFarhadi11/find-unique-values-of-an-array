@@ -1,0 +1,12 @@
+{
+  "name": "find-unique-values-of-an-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["array", "uniquValue", "arrayMethods", "JavaScript"],
+  "author": "Ali Farhadi",
+  "license": "ISC"
+}
